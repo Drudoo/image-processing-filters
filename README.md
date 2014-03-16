@@ -1,4 +1,3 @@
-##README
 #Image processing filters
 *made for openframeworks*
 
